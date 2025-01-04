@@ -28,13 +28,20 @@
 
 ### 🖥️ **Frontend**  
 <p>
-  <img src="<logo_url>" alt="ReactJS" width="50" height="50"/>  
-  <img src="<logo_url>" alt="GSAP" width="50" height="50"/>  
-  <img src="<logo_url>" alt="Framer Motion" width="50" height="50"/>  
-  <img src="<logo_url>" alt="three.js" width="50" height="50"/>  
-  <img src="<logo_url>" alt="TailwindCSS" width="50" height="50"/>  
-  <img src="<logo_url>" alt="HTML" width="50" height="50"/>  
-  <img src="<logo_url>" alt="CSS" width="50" height="50"/>  
+  <img src="<![173600633234011792768167001685](https://github.com/user-attachments/assets/32f6bdab-f093-403e-95ef-d71b73b220fc)
+>" alt="ReactJS" width="50" height="50"/>  
+  <img src="<![17360063696431395662760623077366](https://github.com/user-attachments/assets/831afc11-e8d6-4600-9862-7b957823862d)
+>" alt="GSAP" width="50" height="50"/>  
+  <img src="<![17360063960903441808628570874300](https://github.com/user-attachments/assets/dcb336b2-051b-4eb4-adf7-78fda99c8e04)
+>" alt="Framer Motion" width="50" height="50"/>  
+  <img src="<![173600643275139950222339582474](https://github.com/user-attachments/assets/3d90599a-c800-4d68-a9a7-d3b9fa0d59c6)
+>" alt="three.js" width="50" height="50"/>  
+  <img src="<![17360064697913070314860738187652](https://github.com/user-attachments/assets/589b1ddf-144c-4e06-b961-17769b78d2dd)
+>" alt="TailwindCSS" width="50" height="50"/>  
+  <img src="<![17360065464918263818066190133325](https://github.com/user-attachments/assets/eac606c9-29fb-431e-9bd6-b77c8f4eb7b1)
+>" alt="HTML" width="50" height="50"/>  
+  <img src="<![17360065162156219108786070622895](https://github.com/user-attachments/assets/18c5a3cb-c89d-4cf9-b04d-379d6ae444ad)
+>" alt="CSS" width="50" height="50"/>  
 </p>
 
 ### ⚙️ **Backend**  
