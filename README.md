@@ -1,16 +1,45 @@
-## Hi there 👋
+Hey there👋, I'm Parth
+Full Stack Developer | Aspiring Software Engineer
+page views
 
-<!--
-**dev-Parth23/dev-Parth23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently looking for a job
+📝 I’m currently learning Devops, React Native
+🤔 I’m looking for help with MERN
+⚡ Fun fact: Algorithm is a word used by Programmers when they do not want to explain what they did.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+Go check out my handles and follow em'
+
+sitelinkedingithubinstagrammail
+
+Technologies
+Frontend
+
+Frontend
+
+Frontend
+
+Backend
+
+Backend
+
+Problem Solving
+
+SDE
+
+Software Development, Tools
+
+SDE
+
+Learning
+
+Learn
+
+Graphics
+
+graphics
+
+Certified
+
+certi
