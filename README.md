@@ -13,7 +13,7 @@
 ## 🌐 **Connect with me**  
 Go check out my handles and follow them!  
 
-- [Website](https://portfolio-six-ashy-50.vercel.app/)  
+- [Website] https://portfolio-six-ashy-50.vercel.app/
 - [LinkedIn](https://www.linkedin.com/in/dev-parth23)  
 - [GitHub](https://github.com/dev-Parth23)
 - [Hackerrank](https://www.hackerrank.com/profile/PARTH_SINGHALcs)
