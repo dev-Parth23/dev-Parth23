@@ -27,36 +27,51 @@
 ## 🚀 **Technologies**  
 
 ### 🖥️ **Frontend**  
-- ⚛️ ReactJS  
-- 🎯 GSAP & Framer Motion  
-- 🎥 three.js  
-- 🎨 TailwindCSS  
-- 📄 HTML & CSS  
+<p>
+  <img src="<logo_url>" alt="ReactJS" width="50" height="50"/>  
+  <img src="<logo_url>" alt="GSAP" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Framer Motion" width="50" height="50"/>  
+  <img src="<logo_url>" alt="three.js" width="50" height="50"/>  
+  <img src="<logo_url>" alt="TailwindCSS" width="50" height="50"/>  
+  <img src="<logo_url>" alt="HTML" width="50" height="50"/>  
+  <img src="<logo_url>" alt="CSS" width="50" height="50"/>  
+</p>
 
 ### ⚙️ **Backend**  
-- 🟢 Node.js  
-- 🚀 Express.js  
-- 🗂️ MongoDB  
-- 📊 SQL  
+<p>
+  <img src="<logo_url>" alt="Node.js" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Express.js" width="50" height="50"/>  
+  <img src="<logo_url>" alt="MongoDB" width="50" height="50"/>  
+  <img src="<logo_url>" alt="SQL" width="50" height="50"/>  
+</p>
 
 ### 🧩 **Problem Solving**  
-- ☕ Java  
-- 📚 Data Structures & Algorithms  
+<p>
+  <img src="<logo_url>" alt="Java" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Data Structures & Algorithms" width="50" height="50"/>  
+</p>
 
 ### 💻 **Development Tools**  
-- 🛠️ Git & GitHub  
-- ✏️ Figma  
-- 📈 Power BI  
-- 🖥️ VS Code  
-- 🐳 Docker  
-- 📊 MS Excel  
+<p>
+  <img src="<logo_url>" alt="Git" width="50" height="50"/>  
+  <img src="<logo_url>" alt="GitHub" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Figma" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Power BI" width="50" height="50"/>  
+  <img src="<logo_url>" alt="VS Code" width="50" height="50"/>  
+  <img src="<logo_url>" alt="Docker" width="50" height="50"/>  
+  <img src="<logo_url>" alt="MS Excel" width="50" height="50"/>  
+</p>
 
 ### 📚 **Currently Learning**  
-- 📱 React Native  
-- 🔧 DevOps (CI/CD, Docker, Kubernetes)  
+<p>
+  <img src="<logo_url>" alt="React Native" width="50" height="50"/>  
+  <img src="<logo_url>" alt="DevOps" width="50" height="50"/>  
+</p>
 
 ### 🎨 **Graphics**  
-- 🎨 UI/UX Design  
+<p>
+  <img src="<logo_url>" alt="UI/UX Design" width="50" height="50"/>  
+</p>
 
 ---
 
