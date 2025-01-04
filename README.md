@@ -24,15 +24,19 @@
 
 ---
 
+![React Native Logo](https://reactnative.dev/img/header_logo.svg)
+![TailwindCSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-mark.b4b7e0a0.svg)
+![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
+
 ## 🚀 **Technologies**  
 
 ### 🖥️ **Frontend**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="GSAP" width="50" height="50"/>  
+  <img src="https://greensock.com/uploads/monthly_2020_09/gsap-logo.png.6e0c7a4e2c8f3b1a8b8b8b8b8b8b8b8b.png" alt="GSAP" width="50" height="50"/>  
   <img src="https://worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="three.js" width="50" height="50"/>  
+  <img src="https://threejs.org/files/favicon.ico" alt="three.js" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>  
 </p>
