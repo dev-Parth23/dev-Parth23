@@ -14,13 +14,13 @@
 
 📢 Check out my profiles and let's connect!  
 
-- 🌐 [Portfolio](https://portfolio-six-ashy-50.vercel.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dev-parth23)  
-- 💻 [GitHub](https://github.com/dev-Parth23)  
-- 🎓 [HackerRank](https://www.hackerrank.com/profile/PARTH_SINGHALcs)  
-- 🎨 [Behance](https://www.behance.net/dev_Parth23)  
-- 🐳 [Docker Hub](https://hub.docker.com/u/sparth23)  
-- ✉️ [Email](mailto:parthsinghal23.cs@gmail.com)  
+- 🌐 Portfolio : https://portfolio-six-ashy-50.vercel.app/  
+- 💼 LinkedIn : https://www.linkedin.com/in/dev-parth23
+- 💻 GitHub : https://github.com/dev-Parth23 
+- 🎓 HackerRank https://www.hackerrank.com/profile/PARTH_SINGHALcs  
+- 🎨 Behance : https://www.behance.net/dev_Parth23
+- 🐳 Docker Hub : https://hhub.docker.com/u/sparth23
+- ✉️ Email : mailto:parthsinghal23.cs@gmail.com
 
 ---
 
@@ -29,6 +29,7 @@
 ### 🖥️ **Frontend**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="GSAP" width="50" height="50"/>  
   <img src="https://worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="three.js" width="50" height="50"/>  
