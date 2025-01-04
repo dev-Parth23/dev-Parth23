@@ -24,10 +24,6 @@
 
 ---
 
-![React Native Logo](https://reactnative.dev/img/header_logo.svg)
-![TailwindCSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-mark.b4b7e0a0.svg)
-![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
-
 ## 🚀 **Technologies**  
 
 ### 🖥️ **Frontend**  
