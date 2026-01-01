@@ -14,7 +14,7 @@
 
 📢 Check out my profiles and let's connect!  
 
-- 🌐 Portfolio : https://portfolio-six-ashy-50.vercel.app/  
+- 🌐 Portfolio : https://parth-singhal.vercel.app/
 - 💼 LinkedIn : https://www.linkedin.com/in/dev-parth23
 - 💻 GitHub : https://github.com/dev-Parth23 
 - 🎓 HackerRank https://www.hackerrank.com/profile/PARTH_SINGHALcs  
