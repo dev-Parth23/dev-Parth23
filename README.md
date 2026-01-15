@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Parth!  
-### Full Stack Developer | Aspiring Software Engineer  
+### Full Stack Developer | Software Engineer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-Parth23&color=blue)  
 
