@@ -52,8 +52,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPClznMXkMnbdJ_6QqTqVFvJufgfK-IBZIqg&s" alt="Power BI" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
 </p>
 
@@ -65,9 +64,9 @@
 
 ### 🎨 **Graphics**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="UI/UX Design" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>  
-  <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.54f4e584.png&w=128&q=75" alt="Figma" width="50" height="50"/>  
+  <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.54f4e584.png&w=128&q=75" alt="Spline" width="50" height="50"/>  
 </p>
 
 ---
