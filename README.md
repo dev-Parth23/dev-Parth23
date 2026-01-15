@@ -60,11 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="MS Excel" width="50" height="50"/>  
 </p>
 
-### 📚 **Currently Learning**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="DevOps" width="50" height="50"/>  
-</p>
+
 
 ### 🎨 **Graphics**  
 <p>
