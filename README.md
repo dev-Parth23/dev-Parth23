@@ -46,7 +46,6 @@
 ### 🧩 **Problem Solving**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-  <img src="https://static-00.iconduck.com/assets.00/problem-solving-icon-454x512-c2wmdtx4.png" alt="Problem Solving" width="50" height="50"/>  
 </p>
 
 ### 💻 **Development Tools**  
@@ -59,6 +58,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="MS Excel" width="50" height="50"/>  
 </p>
+
+### 💻 **Cloud**  
+<p>
+  <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" alt="Git" width="50" height="50"/>  
 
 
 
